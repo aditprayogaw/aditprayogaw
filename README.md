@@ -1,25 +1,31 @@
 <h1 align="center">Hi 👋, I'm Aditya Prayoga</h1>
-<h3 align="center">Frontend Developer based in Indonesia 🇮🇩</h3>
 
-<p align="center">
-  🌱 Currently learning <strong>Vue.js</strong><br>
-  👨‍💻 See my portfolio at <a href="https://adityavisual.my.id/">adityavisual.my.id</a><br>
-  📫 Contact me at <a href="mailto:adityamade2187@gmail.com">adityamade2187@gmail.com</a>
-</p>
+###
 
-<p align="center">
-  <a href="https://instagram.com/aditprygaa_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+<h4 align="center">Website Developer based in Indonesia 🇮🇩</h4>
+
+###
+
+<p align="center">🌱 Currently learning Vue.js<br>👨‍💻 See my portfolio at adityavisual.my.id<br>📫 Contact me at adityamade2187@gmail.com</p>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="20" alt="discord logo"  />
+  <a href="https://instagram.com/aditprygaa_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
   </a>
-</p>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="32" height="20" alt="visualstudio logo"  />
+</div>
 
----
+###
 
-### 🛠️ Languages and Tools
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aditprayogaw.aditprayogaw&"  />
+</div>
 
-| Category | Stack |
-| :--- | :--- |
-| **Frontend** | JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, React.js |
-| **Backend** | PHP, Laravel, Python, Java |
-| **Database** | MySQL, PostgreSQL |
-| **Design & Tools** | Figma, Adobe Illustrator, Photoshop, Docker, Android Dev |
+###
+
+<img src="https://raw.githubusercontent.com/aditprayogaw/aditprayogaw/output/snake.svg" alt="Snake animation" />
+
+###
