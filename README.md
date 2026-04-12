@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">🌱 Currently learning Vue.js<br>👨‍💻 See my portfolio at adityavisual.my.id<br>📫 Contact me at adityamade2187@gmail.com</p>
+<p align="center">🌱 Currently learning Vue.js and Laravel 13<br>👨‍💻 See my portfolio at adityavisual.my.id<br>📫 Contact me at adityamade2187@gmail.com</p>
 
 ###
 
